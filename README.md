@@ -1,4 +1,4 @@
-![GUMAYDI ASCII terminal banner](assets/banner.svg)
+![GUMAYDI ASCII terminal banner](assets/banner.png)
 
 **Ahmad Ghumaydi** is a technology enthusiast interested in software development, computer networking, security, and applied research. He also enjoys helping technical communities learn, collaborate, and build practical solutions.
 
