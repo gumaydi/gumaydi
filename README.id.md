@@ -42,75 +42,87 @@ Catatan teknis saya dapat ditemukan di [GitBook](https://xiao-caomay.gitbook.io)
 - **Founder, [Xiao Systems](https://xiaosystems.id)** — mengembangkan inisiatif teknologi dan karya praktis.
 - **Commander, [Bina Darma Cyber Army (BDCA)](https://github.com/bidarcyberarmy)** (2026/2027) — memimpin bersama komunitas mahasiswa bidang keamanan siber dan IT di Universitas Bina Darma, Palembang. [Website](https://bidarcyberarmy.org).
 
+## Tech Stack
+
+Teknologi yang **pernah saya gunakan secara langsung** untuk pengembangan aplikasi, Linux, jaringan, dan infrastruktur. Sebagian prototipe software dikembangkan dengan bantuan AI. Ikon menunjukkan pengalaman penggunaan, **bukan klaim kemahiran mandiri atau sertifikasi**.
+
+**Pemrograman & Web** — HTML, CSS, JavaScript, Node.js, React, Python.
+
+[![Bahasa dan teknologi pengembangan web](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py&theme=dark&perline=10)](https://skillicons.dev)
+
+**Linux & Shell** — Linux, Arch Linux, Debian, Ubuntu, Kali Linux, Bash; saya juga menggunakan CachyOS.
+
+[![Distribusi Linux dan Bash](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,kali,bash&theme=dark&perline=10)](https://skillicons.dev)
+
+<p>
+  <a href="https://cachyos.org/"><img alt="CachyOS" height="26" src="https://img.shields.io/badge/CachyOS-355A72?style=flat-square"></a>
+</p>
+
+**Infrastruktur & Web Services** — Docker, Nginx, Cloudflare.
+
+[![Teknologi infrastruktur](https://skillicons.dev/icons?i=docker,nginx,cloudflare&theme=dark&perline=10)](https://skillicons.dev)
+
+**Virtualisasi & Hosting** — VirtualBox, VMware, Proxmox VE, Apache, cPanel.
+
+<p>
+  <a href="https://www.virtualbox.org/"><img alt="VirtualBox" height="26" src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"></a>
+  <a href="https://www.vmware.com/"><img alt="VMware" height="26" src="https://img.shields.io/badge/VMware-3A4655?style=flat-square"></a>
+  <a href="https://www.proxmox.com/"><img alt="Proxmox VE" height="26" src="https://img.shields.io/badge/Proxmox%20VE-DA5B24?style=flat-square&logo=proxmox&logoColor=white"></a>
+  <a href="https://httpd.apache.org/"><img alt="Apache" height="26" src="https://img.shields.io/badge/Apache-A53E50?style=flat-square&logo=apache&logoColor=white"></a>
+  <a href="https://cpanel.net/"><img alt="cPanel" height="26" src="https://img.shields.io/badge/cPanel-EF6C24?style=flat-square&logo=cpanel&logoColor=white"></a>
+</p>
+
+**Akses Jarak Jauh** — SSH/PuTTY.
+
+<p>
+  <a href="https://www.putty.org/"><img alt="SSH / PuTTY" height="26" src="https://img.shields.io/badge/SSH%20%2F%20PuTTY-475569?style=flat-square"></a>
+</p>
+
+**Pengembangan & Dokumentasi** — GitHub, Arduino IDE, GitBook.
+
+[![Ikon GitHub dan Arduino](https://skillicons.dev/icons?i=github,arduino&theme=dark&perline=10)](https://skillicons.dev)
+
+<p>
+  <a href="https://www.gitbook.com/"><img alt="GitBook" height="26" src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white"></a>
+</p>
+
 ## Tools & Teknologi
 
-Ringkasan perangkat jaringan, aplikasi, dan praktik teknis yang pernah saya gunakan atau pelajari secara langsung. Merek perangkat menunjukkan **pengalaman penggunaan**, bukan klaim sertifikasi vendor.
+Kategori berikut berfokus pada perangkat jaringan dan aktivitas teknis. Logo merek berarti **pernah menggunakan perangkatnya**, bukan memiliki sertifikasi vendor.
 
 ### Analisis & Penemuan Jaringan
 
-**Tools yang pernah saya gunakan** — Aplikasi dan utilitas untuk penemuan perangkat dan troubleshooting jaringan.
+**Pernah digunakan langsung**
 
 <p>
-  <a href="https://www.wireshark.org/"><img alt="Wireshark" height="27" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  <a href="https://angryip.org/"><img alt="Angry IP Scanner" height="27" src="https://img.shields.io/badge/Angry%20IP%20Scanner-454B54?style=for-the-badge"></a>
-  <img alt="IP Scanning" height="27" src="https://img.shields.io/badge/IP%20Scanning-454B54?style=for-the-badge">
+  <a href="https://www.wireshark.org/"><img alt="Wireshark" height="26" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"></a>
+  <a href="https://angryip.org/"><img alt="Angry IP Scanner" height="26" src="https://img.shields.io/badge/Angry%20IP%20Scanner-454B54?style=flat-square"></a>
+  <img alt="IP Scanning" height="26" src="https://img.shields.io/badge/IP%20Scanning-454B54?style=flat-square">
 </p>
 
-**Aktivitas teknis** — Berangkat dari pendidikan jaringan dan pengalaman pekerjaan IT support.
-
-<p>
-  <img alt="Packet Inspection" height="24" src="https://img.shields.io/badge/Packet%20Inspection-43536A?style=flat-square">
-  <img alt="IP Discovery" height="24" src="https://img.shields.io/badge/IP%20Discovery-43536A?style=flat-square">
-  <img alt="Device Identification" height="24" src="https://img.shields.io/badge/Device%20Identification-43536A?style=flat-square">
-  <img alt="Connectivity Troubleshooting" height="24" src="https://img.shields.io/badge/Connectivity%20Troubleshooting-43536A?style=flat-square">
-  <img alt="Network Maintenance" height="24" src="https://img.shields.io/badge/Network%20Maintenance-43536A?style=flat-square">
-</p>
-
-**Rencana eksplorasi** — Tools relevan untuk lab atau riset berikutnya, **bukan klaim pernah menggunakan semuanya**.
-
-<p>
-  <a href="https://nmap.org/"><img alt="Nmap" height="27" src="https://img.shields.io/badge/Nmap-505A66?style=for-the-badge"></a>
-  <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><img alt="TShark" height="27" src="https://img.shields.io/badge/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  <a href="https://www.tcpdump.org/"><img alt="tcpdump" height="27" src="https://img.shields.io/badge/tcpdump-505A66?style=for-the-badge"></a>
-  <a href="https://software.es.net/iperf/"><img alt="iperf3" height="27" src="https://img.shields.io/badge/iperf3-505A66?style=for-the-badge"></a>
-  <a href="https://github.com/traviscross/mtr"><img alt="MTR" height="27" src="https://img.shields.io/badge/MTR-505A66?style=for-the-badge"></a>
-  <a href="https://github.com/royhills/arp-scan"><img alt="arp-scan" height="27" src="https://img.shields.io/badge/arp--scan-505A66?style=for-the-badge"></a>
-  <a href="https://www.gns3.com/"><img alt="GNS3" height="27" src="https://img.shields.io/badge/GNS3-505A66?style=for-the-badge"></a>
-  <a href="https://www.librenms.org/"><img alt="LibreNMS" height="27" src="https://img.shields.io/badge/LibreNMS-505A66?style=for-the-badge"></a>
-  <a href="https://www.zabbix.com/"><img alt="Zabbix" height="27" src="https://img.shields.io/badge/Zabbix-505A66?style=for-the-badge"></a>
-</p>
+Aktivitas yang pernah dilakukan mencakup inspeksi paket, penemuan perangkat, dan troubleshooting konektivitas jaringan.
 
 ### Perangkat & Platform Jaringan
 
-**Vendor yang pernah saya gunakan** — Pengalaman menggunakan merek tertentu tidak berarti memiliki sertifikasi vendor atau menguasai seluruh lini produknya.
+**Pernah digunakan**
 
 <p>
-  <a href="https://mikrotik.com/"><img alt="MikroTik" height="27" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.cisco.com/"><img alt="Cisco" height="27" src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"></a>
-  <a href="https://www.tp-link.com/"><img alt="TP-Link" height="27" src="https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"></a>
-  <a href="https://www.ruijie.com/en-global/"><img alt="Ruijie" height="27" src="https://img.shields.io/badge/Ruijie-454B54?style=for-the-badge"></a>
+  <a href="https://mikrotik.com/"><img alt="MikroTik" height="26" src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
+  <a href="https://www.cisco.com/"><img alt="Cisco" height="26" src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white"></a>
+  <a href="https://www.tp-link.com/"><img alt="TP-Link" height="26" src="https://img.shields.io/badge/TP--Link-198BCB?style=flat-square&logo=tplink&logoColor=white"></a>
+  <a href="https://www.ruijie.com/"><img alt="Ruijie" height="26" src="https://img.shields.io/badge/Ruijie-454B54?style=flat-square"></a>
 </p>
 
-**Jenis infrastruktur yang pernah saya tangani**
+Pengalaman mencakup router, access point, instalasi jaringan, dan pemeliharaan infrastruktur.
+
+### Simulasi & Administrasi Jaringan
+
+**Pernah digunakan langsung**
 
 <p>
-  <img alt="Routers" height="24" src="https://img.shields.io/badge/Routers-43536A?style=flat-square">
-  <img alt="Wireless Access Points" height="24" src="https://img.shields.io/badge/Wireless%20Access%20Points-43536A?style=flat-square">
-  <img alt="Wi-Fi Infrastructure" height="24" src="https://img.shields.io/badge/Wi--Fi%20Infrastructure-43536A?style=flat-square">
-  <img alt="Deployment and Maintenance" height="24" src="https://img.shields.io/badge/Deployment%20and%20Maintenance-43536A?style=flat-square">
-</p>
-
-**Platform dan ekosistem untuk dieksplorasi** — Kandidat lab jaringan berikutnya, **belum dinyatakan sebagai pengalaman langsung**.
-
-<p>
-  <a href="https://mikrotik.com/software"><img alt="RouterOS" height="27" src="https://img.shields.io/badge/RouterOS-58616B?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://manual.mikrotik.com/docs/management-tools/"><img alt="WinBox" height="27" src="https://img.shields.io/badge/WinBox-58616B?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.omadanetworks.com/"><img alt="Omada" height="27" src="https://img.shields.io/badge/Omada-58616B?style=for-the-badge&logo=tplink&logoColor=white"></a>
-  <a href="https://reyee.ruijie.com/"><img alt="Reyee" height="27" src="https://img.shields.io/badge/Reyee-58616B?style=for-the-badge"></a>
-  <a href="https://ui.com/"><img alt="UniFi" height="27" src="https://img.shields.io/badge/UniFi-58616B?style=for-the-badge&logo=ubiquiti&logoColor=white"></a>
-  <a href="https://www.fortinet.com/"><img alt="Fortinet" height="27" src="https://img.shields.io/badge/Fortinet-58616B?style=for-the-badge&logo=fortinet&logoColor=white"></a>
-  <a href="https://www.juniper.net/"><img alt="Juniper" height="27" src="https://img.shields.io/badge/Juniper-58616B?style=for-the-badge&logo=junipernetworks&logoColor=white"></a>
-  <a href="https://e.huawei.com/"><img alt="Huawei" height="27" src="https://img.shields.io/badge/Huawei-58616B?style=for-the-badge&logo=huawei&logoColor=white"></a>
+  <a href="https://mikrotik.com/download"><img alt="WinBox" height="26" src="https://img.shields.io/badge/WinBox-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
+  <a href="https://www.netacad.com/cisco-packet-tracer"><img alt="Cisco Packet Tracer" height="26" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-136EA6?style=flat-square&logo=cisco&logoColor=white"></a>
+  <a href="https://www.gns3.com/"><img alt="GNS3" height="26" src="https://img.shields.io/badge/GNS3-39495A?style=flat-square"></a>
 </p>
 
 ### Network Engineering & Operations
@@ -118,24 +130,24 @@ Ringkasan perangkat jaringan, aplikasi, dan praktik teknis yang pernah saya guna
 <p>
   <img alt="IP Addressing" height="26" src="https://img.shields.io/badge/IP%20Addressing-334155?style=flat-square">
   <img alt="Subnetting & VLSM" height="26" src="https://img.shields.io/badge/Subnetting%20%26%20VLSM-334155?style=flat-square">
-  <img alt="Konfigurasi Jaringan" height="26" src="https://img.shields.io/badge/Network%20Configuration-334155?style=flat-square">
-  <img alt="Jaringan Nirkabel" height="26" src="https://img.shields.io/badge/Wireless%20Networks-334155?style=flat-square">
-  <img alt="Troubleshooting" height="26" src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square">
-  <img alt="Pemeliharaan Infrastruktur" height="26" src="https://img.shields.io/badge/Infrastructure%20Maintenance-334155?style=flat-square">
+  <img alt="Wireless Networking" height="26" src="https://img.shields.io/badge/Wireless%20Networking-334155?style=flat-square">
+  <img alt="Network Configuration" height="26" src="https://img.shields.io/badge/Network%20Configuration-334155?style=flat-square">
   <img alt="IT Support" height="26" src="https://img.shields.io/badge/IT%20Support-334155?style=flat-square">
+  <img alt="Troubleshooting" height="26" src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square">
 </p>
 
-Label-label tersebut merangkum pengalaman dan pelatihan yang dimiliki, bukan klaim menguasai semua bidang pada tingkat lanjut.
+### Eksplorasi Selanjutnya
 
-### Development, Dokumentasi & Kolaborasi
+Berikut **kandidat untuk lab pada masa mendatang**, bukan klaim bahwa saya sudah atau sedang aktif mempelajarinya.
 
 <p>
-  <a href="https://github.com/gumaydi"><img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://xiao-caomay.gitbook.io/"><img alt="GitBook" height="28" src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"></a>
-  <img alt="AI-Assisted Prototyping" height="28" src="https://img.shields.io/badge/AI--Assisted%20Prototyping-475569?style=for-the-badge">
+  <a href="https://nmap.org/"><img alt="Nmap" height="26" src="https://img.shields.io/badge/Nmap-5C6672?style=flat-square"></a>
+  <a href="https://software.es.net/iperf/"><img alt="iperf3" height="26" src="https://img.shields.io/badge/iperf3-5C6672?style=flat-square"></a>
+  <a href="https://www.librenms.org/"><img alt="LibreNMS" height="26" src="https://img.shields.io/badge/LibreNMS-5C6672?style=flat-square"></a>
+  <a href="https://www.zabbix.com/"><img alt="Zabbix" height="26" src="https://img.shields.io/badge/Zabbix-5C6672?style=flat-square"></a>
 </p>
 
-Bahasa pemrograman dan platform perangkat lunak tambahan akan dicantumkan setelah proyek publik yang relevan didokumentasikan.
+Daftar ini akan diperbarui ketika proyek atau eksperimen nyata sudah tersedia.
 
 ## Terhubung
 

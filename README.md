@@ -42,75 +42,87 @@ My technical notes and learning materials are available on [GitBook](https://xia
 - **Founder, [Xiao Systems](https://xiaosystems.id)** — developing a technology-focused initiative and its practical work.
 - **Commander, [Bina Darma Cyber Army (BDCA)](https://github.com/bidarcyberarmy)** (2026/2027) — helping lead a student cybersecurity and IT community at Universitas Bina Darma, Palembang. [Website](https://bidarcyberarmy.org).
 
+## Tech Stack
+
+Technologies I've **used directly** across development, Linux, networking and infrastructure. Many software prototypes were built with AI assistance; the icons indicate hands-on use, **not independent mastery, certifications, or proficiency ratings**.
+
+**Programming & Web** — HTML, CSS, JavaScript, Node.js, React, Python.
+
+[![Web and programming tools](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py&theme=dark&perline=10)](https://skillicons.dev)
+
+**Linux & Shell** — Linux, Arch Linux, Debian, Ubuntu, Kali Linux, Bash; CachyOS is one of my Linux environments.
+
+[![Linux distributions and Bash](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,kali,bash&theme=dark&perline=10)](https://skillicons.dev)
+
+<p>
+  <a href="https://cachyos.org/"><img alt="CachyOS" height="26" src="https://img.shields.io/badge/CachyOS-355A72?style=flat-square"></a>
+</p>
+
+**Infrastructure & Web Services** — Docker, Nginx, Cloudflare.
+
+[![Infrastructure technology icons](https://skillicons.dev/icons?i=docker,nginx,cloudflare&theme=dark&perline=10)](https://skillicons.dev)
+
+**Virtualization & Hosting** — VirtualBox, VMware, Proxmox VE, Apache, cPanel.
+
+<p>
+  <a href="https://www.virtualbox.org/"><img alt="VirtualBox" height="26" src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"></a>
+  <a href="https://www.vmware.com/"><img alt="VMware" height="26" src="https://img.shields.io/badge/VMware-3A4655?style=flat-square"></a>
+  <a href="https://www.proxmox.com/"><img alt="Proxmox VE" height="26" src="https://img.shields.io/badge/Proxmox%20VE-DA5B24?style=flat-square&logo=proxmox&logoColor=white"></a>
+  <a href="https://httpd.apache.org/"><img alt="Apache" height="26" src="https://img.shields.io/badge/Apache-A53E50?style=flat-square&logo=apache&logoColor=white"></a>
+  <a href="https://cpanel.net/"><img alt="cPanel" height="26" src="https://img.shields.io/badge/cPanel-EF6C24?style=flat-square&logo=cpanel&logoColor=white"></a>
+</p>
+
+**Remote Access** — SSH/PuTTY.
+
+<p>
+  <a href="https://www.putty.org/"><img alt="SSH / PuTTY" height="26" src="https://img.shields.io/badge/SSH%20%2F%20PuTTY-475569?style=flat-square"></a>
+</p>
+
+**Development & Documentation** — GitHub, Arduino IDE, and GitBook.
+
+[![GitHub and Arduino icons](https://skillicons.dev/icons?i=github,arduino&theme=dark&perline=10)](https://skillicons.dev)
+
+<p>
+  <a href="https://www.gitbook.com/"><img alt="GitBook" height="26" src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white"></a>
+</p>
+
 ## Tools & Technologies
 
-A focused view of the networking equipment, applications, and technical practices I have experience with. Brand names indicate **hands-on exposure**, not vendor certification.
+The sections below focus on networking products and technical activities. Vendor logos reflect **exposure to equipment**, not vendor-level certifications.
 
 ### Network Analysis & Discovery
 
-**Tools I've used** — Applications and utilities I've worked with in network discovery and troubleshooting.
+**Used directly**
 
 <p>
-  <a href="https://www.wireshark.org/"><img alt="Wireshark" height="27" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  <a href="https://angryip.org/"><img alt="Angry IP Scanner" height="27" src="https://img.shields.io/badge/Angry%20IP%20Scanner-454B54?style=for-the-badge"></a>
-  <img alt="IP Scanning" height="27" src="https://img.shields.io/badge/IP%20Scanning-454B54?style=for-the-badge">
+  <a href="https://www.wireshark.org/"><img alt="Wireshark" height="26" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"></a>
+  <a href="https://angryip.org/"><img alt="Angry IP Scanner" height="26" src="https://img.shields.io/badge/Angry%20IP%20Scanner-454B54?style=flat-square"></a>
+  <img alt="IP Scanning" height="26" src="https://img.shields.io/badge/IP%20Scanning-454B54?style=flat-square">
 </p>
 
-**Hands-on activities** — Based on my technical training and network/IT support work.
-
-<p>
-  <img alt="Packet Inspection" height="24" src="https://img.shields.io/badge/Packet%20Inspection-43536A?style=flat-square">
-  <img alt="IP Discovery" height="24" src="https://img.shields.io/badge/IP%20Discovery-43536A?style=flat-square">
-  <img alt="Device Identification" height="24" src="https://img.shields.io/badge/Device%20Identification-43536A?style=flat-square">
-  <img alt="Connectivity Troubleshooting" height="24" src="https://img.shields.io/badge/Connectivity%20Troubleshooting-43536A?style=flat-square">
-  <img alt="Network Maintenance" height="24" src="https://img.shields.io/badge/Network%20Maintenance-43536A?style=flat-square">
-</p>
-
-**Exploring next** — Useful tools for future labs and research; these are **not claims of hands-on experience**.
-
-<p>
-  <a href="https://nmap.org/"><img alt="Nmap" height="27" src="https://img.shields.io/badge/Nmap-505A66?style=for-the-badge"></a>
-  <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><img alt="TShark" height="27" src="https://img.shields.io/badge/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  <a href="https://www.tcpdump.org/"><img alt="tcpdump" height="27" src="https://img.shields.io/badge/tcpdump-505A66?style=for-the-badge"></a>
-  <a href="https://software.es.net/iperf/"><img alt="iperf3" height="27" src="https://img.shields.io/badge/iperf3-505A66?style=for-the-badge"></a>
-  <a href="https://github.com/traviscross/mtr"><img alt="MTR" height="27" src="https://img.shields.io/badge/MTR-505A66?style=for-the-badge"></a>
-  <a href="https://github.com/royhills/arp-scan"><img alt="arp-scan" height="27" src="https://img.shields.io/badge/arp--scan-505A66?style=for-the-badge"></a>
-  <a href="https://www.gns3.com/"><img alt="GNS3" height="27" src="https://img.shields.io/badge/GNS3-505A66?style=for-the-badge"></a>
-  <a href="https://www.librenms.org/"><img alt="LibreNMS" height="27" src="https://img.shields.io/badge/LibreNMS-505A66?style=for-the-badge"></a>
-  <a href="https://www.zabbix.com/"><img alt="Zabbix" height="27" src="https://img.shields.io/badge/Zabbix-505A66?style=for-the-badge"></a>
-</p>
+Packet inspection, network discovery, troubleshooting, and device identification form part of my networking work and training.
 
 ### Network Hardware & Platforms
 
-**Vendors I've worked with** — Brand exposure does not imply a vendor certification or expertise across every product line.
+**Worked with**
 
 <p>
-  <a href="https://mikrotik.com/"><img alt="MikroTik" height="27" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.cisco.com/"><img alt="Cisco" height="27" src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"></a>
-  <a href="https://www.tp-link.com/"><img alt="TP-Link" height="27" src="https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"></a>
-  <a href="https://www.ruijie.com/en-global/"><img alt="Ruijie" height="27" src="https://img.shields.io/badge/Ruijie-454B54?style=for-the-badge"></a>
+  <a href="https://mikrotik.com/"><img alt="MikroTik" height="26" src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
+  <a href="https://www.cisco.com/"><img alt="Cisco" height="26" src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white"></a>
+  <a href="https://www.tp-link.com/"><img alt="TP-Link" height="26" src="https://img.shields.io/badge/TP--Link-198BCB?style=flat-square&logo=tplink&logoColor=white"></a>
+  <a href="https://www.ruijie.com/"><img alt="Ruijie" height="26" src="https://img.shields.io/badge/Ruijie-454B54?style=flat-square"></a>
 </p>
 
-**Infrastructure I've worked on**
+Experience includes routers, wireless access points, network deployment, and maintenance.
+
+### Network Simulation & Administration
+
+**Used directly**
 
 <p>
-  <img alt="Routers" height="24" src="https://img.shields.io/badge/Routers-43536A?style=flat-square">
-  <img alt="Wireless Access Points" height="24" src="https://img.shields.io/badge/Wireless%20Access%20Points-43536A?style=flat-square">
-  <img alt="Wi-Fi Infrastructure" height="24" src="https://img.shields.io/badge/Wi--Fi%20Infrastructure-43536A?style=flat-square">
-  <img alt="Deployment and Maintenance" height="24" src="https://img.shields.io/badge/Deployment%20and%20Maintenance-43536A?style=flat-square">
-</p>
-
-**Platforms & ecosystems to explore** — Relevant options for future networking labs, **not yet verified as tools I've used**.
-
-<p>
-  <a href="https://mikrotik.com/software"><img alt="RouterOS" height="27" src="https://img.shields.io/badge/RouterOS-58616B?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://manual.mikrotik.com/docs/management-tools/"><img alt="WinBox" height="27" src="https://img.shields.io/badge/WinBox-58616B?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.omadanetworks.com/"><img alt="Omada" height="27" src="https://img.shields.io/badge/Omada-58616B?style=for-the-badge&logo=tplink&logoColor=white"></a>
-  <a href="https://reyee.ruijie.com/"><img alt="Reyee" height="27" src="https://img.shields.io/badge/Reyee-58616B?style=for-the-badge"></a>
-  <a href="https://ui.com/"><img alt="UniFi" height="27" src="https://img.shields.io/badge/UniFi-58616B?style=for-the-badge&logo=ubiquiti&logoColor=white"></a>
-  <a href="https://www.fortinet.com/"><img alt="Fortinet" height="27" src="https://img.shields.io/badge/Fortinet-58616B?style=for-the-badge&logo=fortinet&logoColor=white"></a>
-  <a href="https://www.juniper.net/"><img alt="Juniper" height="27" src="https://img.shields.io/badge/Juniper-58616B?style=for-the-badge&logo=junipernetworks&logoColor=white"></a>
-  <a href="https://e.huawei.com/"><img alt="Huawei" height="27" src="https://img.shields.io/badge/Huawei-58616B?style=for-the-badge&logo=huawei&logoColor=white"></a>
+  <a href="https://mikrotik.com/download"><img alt="WinBox" height="26" src="https://img.shields.io/badge/WinBox-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
+  <a href="https://www.netacad.com/cisco-packet-tracer"><img alt="Cisco Packet Tracer" height="26" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-136EA6?style=flat-square&logo=cisco&logoColor=white"></a>
+  <a href="https://www.gns3.com/"><img alt="GNS3" height="26" src="https://img.shields.io/badge/GNS3-39495A?style=flat-square"></a>
 </p>
 
 ### Network Engineering & Operations
@@ -118,24 +130,24 @@ A focused view of the networking equipment, applications, and technical practice
 <p>
   <img alt="IP Addressing" height="26" src="https://img.shields.io/badge/IP%20Addressing-334155?style=flat-square">
   <img alt="Subnetting & VLSM" height="26" src="https://img.shields.io/badge/Subnetting%20%26%20VLSM-334155?style=flat-square">
+  <img alt="Wireless Networking" height="26" src="https://img.shields.io/badge/Wireless%20Networking-334155?style=flat-square">
   <img alt="Network Configuration" height="26" src="https://img.shields.io/badge/Network%20Configuration-334155?style=flat-square">
-  <img alt="Wireless Networks" height="26" src="https://img.shields.io/badge/Wireless%20Networks-334155?style=flat-square">
-  <img alt="Network Troubleshooting" height="26" src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square">
-  <img alt="Infrastructure Maintenance" height="26" src="https://img.shields.io/badge/Infrastructure%20Maintenance-334155?style=flat-square">
   <img alt="IT Support" height="26" src="https://img.shields.io/badge/IT%20Support-334155?style=flat-square">
+  <img alt="Troubleshooting" height="26" src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square">
 </p>
 
-These labels summarize practical experience and training, not a claim of mastery of every subject.
+### Exploring Next
 
-### Development, Documentation & Collaboration
+These are **potential future lab topics**, not tools I claim to be using or actively studying yet.
 
 <p>
-  <a href="https://github.com/gumaydi"><img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://xiao-caomay.gitbook.io/"><img alt="GitBook" height="28" src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"></a>
-  <img alt="AI-Assisted Prototyping" height="28" src="https://img.shields.io/badge/AI--Assisted%20Prototyping-475569?style=for-the-badge">
+  <a href="https://nmap.org/"><img alt="Nmap" height="26" src="https://img.shields.io/badge/Nmap-5C6672?style=flat-square"></a>
+  <a href="https://software.es.net/iperf/"><img alt="iperf3" height="26" src="https://img.shields.io/badge/iperf3-5C6672?style=flat-square"></a>
+  <a href="https://www.librenms.org/"><img alt="LibreNMS" height="26" src="https://img.shields.io/badge/LibreNMS-5C6672?style=flat-square"></a>
+  <a href="https://www.zabbix.com/"><img alt="Zabbix" height="26" src="https://img.shields.io/badge/Zabbix-5C6672?style=flat-square"></a>
 </p>
 
-Programming languages and additional software platforms will be listed as relevant public projects are documented.
+This list will be updated when real projects or experiments provide evidence of hands-on experience.
 
 ## Connect
 
