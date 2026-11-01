@@ -94,11 +94,13 @@ The sections below focus on networking products and technical activities. Vendor
 
 **Used directly**
 
-<p>
-  <a href="https://www.wireshark.org/"><img alt="Wireshark" height="26" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"></a>
-  <a href="https://angryip.org/"><img alt="Angry IP Scanner" height="26" src="https://img.shields.io/badge/Angry%20IP%20Scanner-454B54?style=flat-square"></a>
-  <img alt="IP Scanning" height="26" src="https://img.shields.io/badge/IP%20Scanning-454B54?style=flat-square">
-</p>
+<table>
+<tr>
+<td align="center" width="150"><a href="https://www.wireshark.org/"><img src="https://www.wireshark.org/assets/images/sflogo.png" alt="Wireshark logo" width="64" height="64" /></a><br/><sub><b>Wireshark</b></sub></td>
+<td align="center" width="150"><a href="https://angryip.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Angry_ip_scan_logo.svg/1280px-Angry_ip_scan_logo.svg.png" alt="Angry IP Scanner logo" width="64" height="64" /></a><br/><sub><b>Angry IP Scanner</b></sub></td>
+<td align="center" width="150"><img src="assets/network-scan.svg" alt="IP Scanning logo" width="64" height="64" /><br/><sub><b>IP Scanning</b></sub></td>
+</tr>
+</table>
 
 Packet inspection, network discovery, troubleshooting, and device identification form part of my networking work and training.
 
@@ -106,12 +108,14 @@ Packet inspection, network discovery, troubleshooting, and device identification
 
 **Worked with**
 
-<p>
-  <a href="https://mikrotik.com/"><img alt="MikroTik" height="26" src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.cisco.com/"><img alt="Cisco" height="26" src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white"></a>
-  <a href="https://www.tp-link.com/"><img alt="TP-Link" height="26" src="https://img.shields.io/badge/TP--Link-198BCB?style=flat-square&logo=tplink&logoColor=white"></a>
-  <a href="https://www.ruijie.com/"><img alt="Ruijie" height="26" src="https://img.shields.io/badge/Ruijie-454B54?style=flat-square"></a>
-</p>
+<table>
+<tr>
+<td align="center" width="150"><a href="https://mikrotik.com/"><img src="https://cdn.simpleicons.org/mikrotik/9CA3AF" alt="MikroTik logo" width="64" height="64" /></a><br/><sub><b>MikroTik</b></sub></td>
+<td align="center" width="150"><a href="https://www.cisco.com/"><img src="https://cdn.simpleicons.org/cisco/049FD9" alt="Cisco logo" width="64" height="64" /></a><br/><sub><b>Cisco</b></sub></td>
+<td align="center" width="150"><a href="https://www.tp-link.com/"><img src="https://cdn.simpleicons.org/tplink/4ACBD6" alt="TP-Link logo" width="64" height="64" /></a><br/><sub><b>TP-Link</b></sub></td>
+<td align="center" width="150"><a href="https://www.ruijie.com/"><img src="https://asset.brandfetch.io/idlZtwqbno/id9fShSXuE.jpeg" alt="Ruijie logo" width="64" height="64" /></a><br/><sub><b>Ruijie</b></sub></td>
+</tr>
+</table>
 
 Experience includes routers, wireless access points, network deployment, and maintenance.
 
@@ -119,11 +123,15 @@ Experience includes routers, wireless access points, network deployment, and mai
 
 **Used directly**
 
-<p>
-  <a href="https://mikrotik.com/download"><img alt="WinBox" height="26" src="https://img.shields.io/badge/WinBox-293239?style=flat-square&logo=mikrotik&logoColor=white"></a>
-  <a href="https://www.netacad.com/cisco-packet-tracer"><img alt="Cisco Packet Tracer" height="26" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-136EA6?style=flat-square&logo=cisco&logoColor=white"></a>
-  <a href="https://www.gns3.com/"><img alt="GNS3" height="26" src="https://img.shields.io/badge/GNS3-39495A?style=flat-square"></a>
-</p>
+<table>
+<tr>
+<td align="center" width="150"><a href="https://mikrotik.com/download/winbox"><img src="https://cdn.simpleicons.org/mikrotik/9CA3AF" alt="WinBox logo" width="64" height="64" /></a><br/><sub><b>WinBox</b></sub></td>
+<td align="center" width="150"><a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://emuapps.com/storage/emulators/logos/cisco-packet-tracer_M1fXAPuA.webp" alt="Cisco Packet Tracer logo" width="64" height="64" /></a><br/><sub><b>Cisco Packet Tracer</b></sub></td>
+<td align="center" width="150"><a href="https://www.gns3.com/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/gns3.png" alt="GNS3 logo" width="64" height="64" /></a><br/><sub><b>GNS3</b></sub></td>
+</tr>
+</table>
+
+<sub>Note: IP Scanning is an activity, so it uses a generic network icon. WinBox uses the MikroTik brand icon. Logo assets remain the property of their respective owners.</sub>
 
 ### Network Engineering & Operations
 
